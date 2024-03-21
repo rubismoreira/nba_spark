@@ -18,3 +18,10 @@ To run the project on the root run:
 # Requirements
 Use java 8 
 
+
+# Deliverables
+1. [csv of the local run](resources/static_result/localRunResult.csv) -> this csv was generated when i did run on my machine
+2. [extract object](src/main/scala/com.example.examspark/Extract.scala)  
+3. [transform object](src/main/scala/com.example.examspark/Transform.scala) 
+4. [sbt file](build.sbt) 
+

@@ -1,0 +1,217 @@
+date,home_team_name,visitor_team_name,home_team_score,visitor_team_score,top_scorer,turnover_sum,blocks_sum,assists_sum,persona_fouls_sum,steals_sum
+2023-10-24,Denver Nuggets,Los Angeles Lakers,119,107,LeBron James,11,4,23,18,5
+2023-10-25,Charlotte Hornets,Atlanta Hawks,116,110,Trae Young,12,1,24,19,12
+2023-10-26,Milwaukee Bucks,Philadelphia 76ers,118,117,Damian Lillard,14,4,20,23,9
+2023-10-26,Los Angeles Lakers,Phoenix Suns,100,95,Anthony Davis,16,7,24,23,14
+2023-10-26,Los Angeles Lakers,Phoenix Suns,100,95,Kevin Durant,20,3,16,21,7
+2023-10-27,Atlanta Hawks,New York Knicks,120,126,De'Andre Hunter,14,6,28,20,8
+2023-10-29,Milwaukee Bucks,Atlanta Hawks,110,127,Trae Young,17,2,32,17,15
+2023-10-29,Milwaukee Bucks,Atlanta Hawks,110,127,Giannis Antetokounmpo,23,3,22,22,10
+2023-10-29,Sacramento Kings,Los Angeles Lakers,132,127,Anthony Davis,12,4,27,22,4
+2023-10-30,Atlanta Hawks,Minnesota Timberwolves,127,113,Dejounte Murray,9,7,28,12,6
+2023-10-30,Milwaukee Bucks,Miami Heat,122,114,Giannis Antetokounmpo,14,5,24,23,8
+2023-10-30,Los Angeles Lakers,Orlando Magic,106,103,D'Angelo Russell,16,10,28,17,7
+2023-11-01,Toronto Raptors,Milwaukee Bucks,130,111,Malik Beasley,12,2,19,17,9
+2023-11-01,Atlanta Hawks,Washington Wizards,130,121,Dejounte Murray,20,3,26,16,8
+2023-11-01,Los Angeles Lakers,LA Clippers,130,125,LeBron James,14,9,28,24,10
+2023-11-04,Orlando Magic,Los Angeles Lakers,120,101,Anthony Davis,17,10,17,21,6
+2023-11-04,New Orleans Pelicans,Atlanta Hawks,105,123,Trae Young,11,5,28,16,4
+2023-11-06,Brooklyn Nets,Milwaukee Bucks,125,129,Giannis Antetokounmpo,10,2,26,13,6
+2023-11-06,Miami Heat,Los Angeles Lakers,108,107,LeBron James,17,5,28,17,6
+2023-11-06,Oklahoma City Thunder,Atlanta Hawks,126,117,Dejounte Murray,15,3,27,16,8
+2023-11-08,Houston Rockets,Los Angeles Lakers,128,94,Rui Hachimura,9,6,20,18,7
+2023-11-08,Milwaukee Bucks,Detroit Pistons,120,118,Damian Lillard,10,7,19,18,8
+2023-11-09,Indiana Pacers,Milwaukee Bucks,126,124,Giannis Antetokounmpo,14,5,23,19,6
+2023-11-09,Orlando Magic,Atlanta Hawks,119,120,Trae Young,17,7,22,25,12
+2023-11-11,Orlando Magic,Milwaukee Bucks,112,97,Giannis Antetokounmpo,19,6,25,24,9
+2023-11-11,Atlanta Hawks,Miami Heat,109,117,Trae Young,21,6,23,19,6
+2023-11-12,Los Angeles Lakers,Portland Trail Blazers,116,110,Anthony Davis,9,4,27,11,8
+2023-11-14,Detroit Pistons,Atlanta Hawks,120,126,Onyeka Okongwu,2,1,2,5,0
+2023-11-14,Los Angeles Lakers,Memphis Grizzlies,134,107,D'Angelo Russell,18,10,30,13,4
+2023-11-15,Los Angeles Lakers,Sacramento Kings,110,125,LeBron James,23,6,25,17,12
+2023-11-15,Los Angeles Lakers,Sacramento Kings,110,125,D'Angelo Russell,23,6,25,17,12
+2023-11-17,Portland Trail Blazers,Los Angeles Lakers,95,107,Christian Wood,3,0,4,1,0
+2023-11-18,Milwaukee Bucks,Dallas Mavericks,132,125,Giannis Antetokounmpo,5,3,29,16,8
+2023-11-19,Los Angeles Lakers,Houston Rockets,105,104,LeBron James,17,1,26,13,13
+2023-11-20,Washington Wizards,Milwaukee Bucks,129,142,Giannis Antetokounmpo,13,6,33,13,3
+2023-11-21,Atlanta Hawks,Indiana Pacers,152,157,Trae Young,15,4,28,23,8
+2023-11-21,Los Angeles Lakers,Utah Jazz,131,99,Anthony Davis,13,5,35,15,6
+2023-11-22,Atlanta Hawks,Brooklyn Nets,147,145,Trae Young,14,8,24,18,10
+2023-11-22,Boston Celtics,Milwaukee Bucks,119,116,Brook Lopez,9,2,23,19,9
+2023-11-22,Los Angeles Lakers,Dallas Mavericks,101,104,LeBron James,11,2,26,17,1
+2023-11-24,Milwaukee Bucks,Washington Wizards,131,128,Brook Lopez,9,6,28,22,6
+2023-11-25,Washington Wizards,Atlanta Hawks,108,136,Trae Young,9,2,29,15,13
+2023-11-25,Cleveland Cavaliers,Los Angeles Lakers,115,121,Anthony Davis,18,8,34,15,9
+2023-11-26,Milwaukee Bucks,Portland Trail Blazers,108,102,Giannis Antetokounmpo,17,11,19,20,13
+2023-11-26,Boston Celtics,Atlanta Hawks,113,103,Trae Young,15,4,15,17,5
+2023-11-27,Philadelphia 76ers,Los Angeles Lakers,138,94,LeBron James,17,4,23,18,3
+2023-11-28,Cleveland Cavaliers,Atlanta Hawks,128,105,De'Andre Hunter,10,3,21,16,9
+2023-11-28,Cleveland Cavaliers,Atlanta Hawks,128,105,Bogdan Bogdanovic,10,3,21,16,9
+2023-11-28,Miami Heat,Milwaukee Bucks,124,131,Giannis Antetokounmpo,9,4,26,21,3
+2023-11-29,Detroit Pistons,Los Angeles Lakers,107,133,D'Angelo Russell,12,10,27,12,7
+2023-11-30,Chicago Bulls,Milwaukee Bucks,120,113,Giannis Antetokounmpo,20,6,28,21,12
+2023-11-30,Oklahoma City Thunder,Los Angeles Lakers,133,110,Anthony Davis,13,3,24,20,6
+2023-11-30,San Antonio Spurs,Atlanta Hawks,135,137,Trae Young,10,2,24,25,14
+2023-12-02,Milwaukee Bucks,Atlanta Hawks,132,121,Trae Young,11,4,23,14,11
+2023-12-02,Milwaukee Bucks,Atlanta Hawks,132,121,Giannis Antetokounmpo,15,5,33,19,5
+2023-12-02,Los Angeles Lakers,Houston Rockets,107,97,Anthony Davis,9,7,24,17,11
+2023-12-05,Milwaukee Bucks,New York Knicks,146,122,Giannis Antetokounmpo,12,6,32,23,12
+2023-12-05,Los Angeles Lakers,Phoenix Suns,106,103,LeBron James,9,2,24,19,11
+2023-12-05,Los Angeles Lakers,Phoenix Suns,106,103,Kevin Durant,20,5,25,21,8
+2023-12-06,Atlanta Hawks,Brooklyn Nets,113,114,Trae Young,12,4,25,23,5
+2023-12-07,Milwaukee Bucks,Indiana Pacers,119,128,Giannis Antetokounmpo,12,9,19,17,3
+2023-12-07,Los Angeles Lakers,New Orleans Pelicans,133,89,LeBron James,14,4,30,16,6
+2023-12-08,Philadelphia 76ers,Atlanta Hawks,125,114,De'Andre Hunter,13,4,20,23,3
+2023-12-09,Los Angeles Lakers,Indiana Pacers,123,109,Anthony Davis,18,10,25,25,5
+2023-12-11,Atlanta Hawks,Denver Nuggets,122,129,Bogdan Bogdanovic,10,2,25,21,9
+2023-12-11,Milwaukee Bucks,Chicago Bulls,133,129,Giannis Antetokounmpo,11,4,34,21,5
+2023-12-12,Dallas Mavericks,Los Angeles Lakers,127,125,Anthony Davis,15,4,34,20,4
+2023-12-13,Toronto Raptors,Atlanta Hawks,135,128,Trae Young,7,8,32,18,9
+2023-12-15,Toronto Raptors,Atlanta Hawks,104,125,Kobe Bufkin,0,0,0,0,0
+2023-12-15,Toronto Raptors,Atlanta Hawks,104,125,AJ Griffin,0,0,0,0,0
+2023-12-15,Toronto Raptors,Atlanta Hawks,104,125,Mouhamed Gueye,0,0,0,0,0
+2023-12-15,Toronto Raptors,Atlanta Hawks,104,125,De'Andre Hunter,0,0,0,0,0
+2023-12-15,Toronto Raptors,Atlanta Hawks,104,125,Jalen Johnson,0,0,0,0,0
+2023-12-15,Toronto Raptors,Atlanta Hawks,104,125,Miles Norris,0,0,0,0,0
+2023-12-15,San Antonio Spurs,Los Angeles Lakers,129,115,LeBron James,6,5,32,15,5
+2023-12-16,Milwaukee Bucks,Detroit Pistons,146,114,Damian Lillard,14,8,24,24,5
+2023-12-16,Cleveland Cavaliers,Atlanta Hawks,127,119,Trae Young,11,4,21,21,5
+2023-12-17,Milwaukee Bucks,Houston Rockets,128,119,Damian Lillard,15,1,25,23,4
+2023-12-18,Atlanta Hawks,Detroit Pistons,130,124,Trae Young,17,10,25,24,6
+2023-12-18,Los Angeles Lakers,New York Knicks,109,114,Anthony Davis,10,3,29,17,9
+2023-12-19,Milwaukee Bucks,San Antonio Spurs,132,119,Damian Lillard,6,7,34,15,11
+2023-12-20,Chicago Bulls,Los Angeles Lakers,124,108,LeBron James,13,7,27,11,7
+2023-12-20,Houston Rockets,Atlanta Hawks,127,134,Trae Young,9,3,31,18,4
+2023-12-21,Milwaukee Bucks,Orlando Magic,118,114,Giannis Antetokounmpo,13,6,26,22,3
+2023-12-21,Minnesota Timberwolves,Los Angeles Lakers,118,111,Anthony Davis,17,6,21,18,6
+2023-12-22,Miami Heat,Atlanta Hawks,122,113,Trae Young,13,2,29,23,9
+2023-12-23,New York Knicks,Milwaukee Bucks,111,130,Giannis Antetokounmpo,14,2,25,22,4
+2023-12-23,Atlanta Hawks,Memphis Grizzlies,119,125,Trae Young,10,5,28,22,8
+2023-12-23,Oklahoma City Thunder,Los Angeles Lakers,120,129,LeBron James,9,7,38,13,7
+2023-12-25,New York Knicks,Milwaukee Bucks,129,122,Giannis Antetokounmpo,11,4,26,23,7
+2023-12-25,New York Knicks,Milwaukee Bucks,129,122,Damian Lillard,11,4,26,23,7
+2023-12-25,Los Angeles Lakers,Boston Celtics,115,126,Anthony Davis,12,1,24,19,4
+2023-12-26,Chicago Bulls,Atlanta Hawks,118,113,Bogdan Bogdanovic,15,3,24,21,6
+2023-12-27,Brooklyn Nets,Milwaukee Bucks,122,144,Giannis Antetokounmpo,10,7,41,18,6
+2023-12-28,Los Angeles Lakers,Charlotte Hornets,133,112,Anthony Davis,11,7,41,21,11
+2023-12-29,Atlanta Hawks,Sacramento Kings,110,117,Trae Young,15,4,29,16,9
+2023-12-29,Cleveland Cavaliers,Milwaukee Bucks,111,119,Giannis Antetokounmpo,17,6,26,15,5
+2023-12-31,New Orleans Pelicans,Los Angeles Lakers,129,109,Alex Fudge,0,0,0,0,0
+2023-12-31,New Orleans Pelicans,Los Angeles Lakers,129,109,D'Moi Hodge,0,0,0,0,0
+2023-12-31,New Orleans Pelicans,Los Angeles Lakers,129,109,Maxwell Lewis,0,0,0,0,0
+2023-12-31,New Orleans Pelicans,Los Angeles Lakers,129,109,Gabe Vincent,0,0,0,0,0
+2024-01-01,Milwaukee Bucks,Indiana Pacers,113,122,Giannis Antetokounmpo,11,8,27,26,4
+2024-01-03,Indiana Pacers,Milwaukee Bucks,142,130,Giannis Antetokounmpo,13,4,30,25,6
+2024-01-03,Atlanta Hawks,Oklahoma City Thunder,141,138,Jalen Johnson,11,5,30,21,8
+2024-01-03,Los Angeles Lakers,Miami Heat,96,110,Anthony Davis,21,6,29,14,3
+2024-01-04,San Antonio Spurs,Milwaukee Bucks,121,125,Giannis Antetokounmpo,14,5,27,16,5
+2024-01-05,Indiana Pacers,Atlanta Hawks,150,116,Dejounte Murray,14,3,21,11,6
+2024-01-05,Los Angeles Lakers,Memphis Grizzlies,113,127,LeBron James,13,3,26,14,13
+2024-01-06,Houston Rockets,Milwaukee Bucks,112,108,Giannis Antetokounmpo,11,4,21,24,7
+2024-01-07,Orlando Magic,Atlanta Hawks,117,110,Trae Young,12,10,21,23,9
+2024-01-07,Los Angeles Lakers,LA Clippers,106,103,LeBron James,19,6,23,11,9
+2024-01-08,Milwaukee Bucks,Utah Jazz,116,132,Giannis Antetokounmpo,9,6,31,20,6
+2024-01-09,Los Angeles Lakers,Toronto Raptors,132,131,Anthony Davis,15,4,34,16,6
+2024-01-10,Atlanta Hawks,Philadelphia 76ers,139,132,Trae Young,12,8,32,21,6
+2024-01-11,Milwaukee Bucks,Boston Celtics,135,102,Bobby Portis,9,6,34,22,4
+2024-01-11,Los Angeles Lakers,Phoenix Suns,109,127,D'Angelo Russell,18,4,33,19,8
+2024-01-11,Los Angeles Lakers,Phoenix Suns,109,127,Bradley Beal,12,4,23,16,12
+2024-01-12,Atlanta Hawks,Indiana Pacers,108,126,Dejounte Murray,14,1,25,13,14
+2024-01-13,Atlanta Hawks,Washington Wizards,99,127,Trae Young,14,7,21,20,9
+2024-01-13,Milwaukee Bucks,Golden State Warriors,129,118,Giannis Antetokounmpo,12,5,33,15,6
+2024-01-13,Utah Jazz,Los Angeles Lakers,132,125,D'Angelo Russell,12,8,30,23,6
+2024-01-14,Milwaukee Bucks,Sacramento Kings,143,142,Damian Lillard,13,3,31,22,5
+2024-01-15,Atlanta Hawks,San Antonio Spurs,109,99,Trae Young,16,6,24,19,8
+2024-01-15,Los Angeles Lakers,Oklahoma City Thunder,112,105,Anthony Davis,17,9,31,12,7
+2024-01-19,Miami Heat,Atlanta Hawks,108,109,Dejounte Murray,13,2,23,20,6
+2024-01-19,Los Angeles Lakers,Brooklyn Nets,112,130,Anthony Davis,14,3,31,11,7
+2024-01-20,Detroit Pistons,Milwaukee Bucks,135,141,Damian Lillard,10,6,30,18,6
+2024-01-20,Atlanta Hawks,Cleveland Cavaliers,95,116,Dejounte Murray,11,4,25,15,5
+2024-01-21,Los Angeles Lakers,Portland Trail Blazers,134,110,D'Angelo Russell,12,6,28,18,9
+2024-01-22,Detroit Pistons,Milwaukee Bucks,113,122,Giannis Antetokounmpo,9,8,26,22,7
+2024-01-22,Sacramento Kings,Atlanta Hawks,122,107,Dejounte Murray,12,7,19,19,2
+2024-01-23,LA Clippers,Los Angeles Lakers,127,116,D'Angelo Russell,15,9,27,15,9
+2024-01-24,Milwaukee Bucks,Cleveland Cavaliers,126,116,Giannis Antetokounmpo,11,3,24,16,9
+2024-01-24,Golden State Warriors,Atlanta Hawks,134,112,Dejounte Murray,10,2,30,16,7
+2024-01-25,Los Angeles Lakers,Chicago Bulls,141,132,D'Angelo Russell,12,4,35,21,10
+2024-01-26,Atlanta Hawks,Dallas Mavericks,143,148,Trae Young,7,2,32,24,7
+2024-01-26,Milwaukee Bucks,Cleveland Cavaliers,100,112,Giannis Antetokounmpo,17,4,21,24,6
+2024-01-26,Milwaukee Bucks,Cleveland Cavaliers,100,112,Damian Lillard,17,4,21,24,6
+2024-01-27,Milwaukee Bucks,New Orleans Pelicans,141,117,Giannis Antetokounmpo,9,0,30,25,12
+2024-01-27,Golden State Warriors,Los Angeles Lakers,144,145,LeBron James,19,5,33,21,9
+2024-01-28,Atlanta Hawks,Toronto Raptors,126,125,Trae Young,14,4,27,21,7
+2024-01-29,Houston Rockets,Los Angeles Lakers,135,119,LeBron James,12,6,26,13,9
+2024-01-29,Houston Rockets,Los Angeles Lakers,135,119,Anthony Davis,12,6,26,13,9
+2024-01-29,Houston Rockets,Los Angeles Lakers,135,119,D'Angelo Russell,12,6,26,13,9
+2024-01-29,Denver Nuggets,Milwaukee Bucks,113,107,Giannis Antetokounmpo,12,7,24,22,3
+2024-01-30,Atlanta Hawks,Los Angeles Lakers,138,122,Trae Young,12,2,32,18,10
+2024-01-30,Atlanta Hawks,Los Angeles Lakers,138,122,Austin Reaves,14,3,28,16,12
+2024-01-31,Portland Trail Blazers,Milwaukee Bucks,119,116,Giannis Antetokounmpo,13,5,27,17,7
+2024-02-01,Boston Celtics,Los Angeles Lakers,105,114,Austin Reaves,7,2,30,8,11
+2024-02-02,Atlanta Hawks,Phoenix Suns,129,120,Trae Young,9,4,29,13,7
+2024-02-02,Atlanta Hawks,Phoenix Suns,129,120,Kevin Durant,16,5,31,17,6
+2024-02-03,New York Knicks,Los Angeles Lakers,105,113,Skylar Mays,0,0,0,0,0
+2024-02-03,New York Knicks,Los Angeles Lakers,105,113,Cameron Reddish,0,0,0,0,0
+2024-02-03,New York Knicks,Los Angeles Lakers,105,113,Gabe Vincent,0,0,0,0,0
+2024-02-03,New York Knicks,Los Angeles Lakers,105,113,Dylan Windler,0,0,0,0,0
+2024-02-04,Utah Jazz,Milwaukee Bucks,123,108,Giannis Antetokounmpo,11,3,27,21,8
+2024-02-05,Charlotte Hornets,Los Angeles Lakers,118,124,D'Angelo Russell,16,6,36,12,5
+2024-02-05,Atlanta Hawks,LA Clippers,144,149,De'Andre Hunter,11,4,35,22,5
+2024-02-06,Phoenix Suns,Milwaukee Bucks,114,106,Giannis Antetokounmpo,12,4,23,21,10
+2024-02-06,Phoenix Suns,Milwaukee Bucks,114,106,Devin Booker,13,5,17,19,8
+2024-02-07,Boston Celtics,Atlanta Hawks,125,117,Saddiq Bey,9,2,24,13,8
+2024-02-08,Milwaukee Bucks,Minnesota Timberwolves,105,129,A.J. Green,13,3,35,10,6
+2024-02-08,Los Angeles Lakers,Denver Nuggets,106,114,Anthony Davis,7,10,27,10,12
+2024-02-09,Philadelphia 76ers,Atlanta Hawks,121,127,Trae Young,13,9,31,19,4
+2024-02-09,Milwaukee Bucks,Charlotte Hornets,120,84,Damian Lillard,5,5,26,24,8
+2024-02-09,Los Angeles Lakers,New Orleans Pelicans,139,122,D'Angelo Russell,7,5,32,20,5
+2024-02-10,Atlanta Hawks,Houston Rockets,122,113,Dejounte Murray,11,8,25,18,7
+2024-02-12,Atlanta Hawks,Chicago Bulls,126,136,Bogdan Bogdanovic,11,3,33,20,4
+2024-02-12,Milwaukee Bucks,Denver Nuggets,112,95,Giannis Antetokounmpo,12,6,30,19,8
+2024-02-13,Milwaukee Bucks,Miami Heat,97,123,Giannis Antetokounmpo,18,4,24,12,8
+2024-02-13,Los Angeles Lakers,Detroit Pistons,125,111,LeBron James,15,11,32,14,6
+2024-02-14,Charlotte Hornets,Atlanta Hawks,122,99,De'Andre Hunter,16,6,23,20,5
+2024-02-14,Utah Jazz,Los Angeles Lakers,122,138,Anthony Davis,9,4,34,13,8
+2024-02-15,Memphis Grizzlies,Milwaukee Bucks,113,110,Giannis Antetokounmpo,13,5,24,22,10
+2024-02-22,Golden State Warriors,Los Angeles Lakers,128,110,Anthony Davis,11,9,28,18,5
+2024-02-23,Atlanta Hawks,Toronto Raptors,121,123,Dejounte Murray,9,4,27,11,5
+2024-02-23,Minnesota Timberwolves,Milwaukee Bucks,107,112,Giannis Antetokounmpo,10,4,24,18,10
+2024-02-23,Los Angeles Lakers,San Antonio Spurs,123,118,LeBron James,12,4,28,18,7
+2024-02-27,Atlanta Hawks,Utah Jazz,124,97,Jalen Johnson,17,8,27,15,8
+2024-02-27,Milwaukee Bucks,Charlotte Hornets,123,85,Giannis Antetokounmpo,9,3,29,17,7
+2024-02-28,LA Clippers,Los Angeles Lakers,112,116,LeBron James,15,5,28,12,6
+2024-02-29,Charlotte Hornets,Milwaukee Bucks,99,111,Giannis Antetokounmpo,7,3,21,18,9
+2024-02-29,Brooklyn Nets,Atlanta Hawks,124,97,Dejounte Murray,11,8,18,14,3
+2024-02-29,Los Angeles Lakers,Washington Wizards,134,131,Anthony Davis,11,6,30,16,6
+2024-03-01,Chicago Bulls,Milwaukee Bucks,97,113,Giannis Antetokounmpo,6,4,22,18,7
+2024-03-02,Brooklyn Nets,Atlanta Hawks,114,102,Saddiq Bey,11,4,23,19,4
+2024-03-02,Los Angeles Lakers,Denver Nuggets,114,124,LeBron James,7,4,33,9,5
+2024-03-04,Milwaukee Bucks,LA Clippers,113,106,Damian Lillard,11,3,20,20,8
+2024-03-04,Los Angeles Lakers,Oklahoma City Thunder,116,104,D'Angelo Russell,20,7,29,15,8
+2024-03-05,New York Knicks,Atlanta Hawks,100,116,Jalen Johnson,14,5,26,13,6
+2024-03-06,Atlanta Hawks,Cleveland Cavaliers,112,101,Saddiq Bey,9,3,27,17,7
+2024-03-06,Atlanta Hawks,Cleveland Cavaliers,112,101,Bogdan Bogdanovic,9,3,27,17,7
+2024-03-06,Golden State Warriors,Milwaukee Bucks,122,90,Giannis Antetokounmpo,14,5,19,10,8
+2024-03-06,Los Angeles Lakers,Sacramento Kings,120,130,LeBron James,14,5,25,14,4
+2024-03-08,Memphis Grizzlies,Atlanta Hawks,92,99,Dejounte Murray,14,5,21,20,9
+2024-03-08,Los Angeles Lakers,Milwaukee Bucks,123,122,D'Angelo Russell,5,7,27,16,2
+2024-03-08,Los Angeles Lakers,Milwaukee Bucks,123,122,Giannis Antetokounmpo,6,2,28,17,3
+2024-03-10,LA Clippers,Milwaukee Bucks,117,124,Damian Lillard,7,6,28,15,5
+2024-03-10,Atlanta Hawks,New Orleans Pelicans,103,116,Bogdan Bogdanovic,11,4,28,15,6
+2024-03-10,Los Angeles Lakers,Minnesota Timberwolves,120,109,LeBron James,19,4,29,12,9
+2024-03-12,Sacramento Kings,Milwaukee Bucks,129,94,Giannis Antetokounmpo,13,2,23,18,3
+2024-03-13,Portland Trail Blazers,Atlanta Hawks,106,102,Dejounte Murray,14,6,19,23,11
+2024-03-15,Utah Jazz,Atlanta Hawks,124,122,Saddiq Bey,0,0,0,0,0
+2024-03-15,Utah Jazz,Atlanta Hawks,124,122,Kobe Bufkin,0,0,0,0,0
+2024-03-15,Utah Jazz,Atlanta Hawks,124,122,AJ Griffin,0,0,0,0,0
+2024-03-15,Utah Jazz,Atlanta Hawks,124,122,Mouhamed Gueye,0,0,0,0,0
+2024-03-15,Utah Jazz,Atlanta Hawks,124,122,Seth Lundy,0,0,0,0,0
+2024-03-15,Utah Jazz,Atlanta Hawks,124,122,Trae Young,0,0,0,0,0
+2024-03-16,Los Angeles Lakers,Golden State Warriors,121,128,LeBron James,9,4,32,13,3
+2024-03-17,Milwaukee Bucks,Phoenix Suns,140,129,Damian Lillard,10,2,35,12,11
+2024-03-17,Milwaukee Bucks,Phoenix Suns,140,129,Bobby Portis,10,2,35,12,11
+2024-03-17,Milwaukee Bucks,Phoenix Suns,140,129,Bradley Beal,12,5,36,16,7
+2024-03-17,LA Clippers,Atlanta Hawks,93,110,Dejounte Murray,14,7,32,22,10
+2024-03-18,Los Angeles Lakers,Atlanta Hawks,136,105,Jalen Johnson,9,5,32,14,8
+2024-03-18,Los Angeles Lakers,Atlanta Hawks,136,105,D'Angelo Russell,8,4,39,15,6
+2024-03-20,Boston Celtics,Milwaukee Bucks,122,119,Damian Lillard,14,6,20,25,3
